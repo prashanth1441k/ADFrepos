@@ -1,0 +1,9 @@
+{
+	"name": "ppdb",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3cdd9f38-8ed5-458f-bb12-26271d783c9b",
+		"tenantId": "8a140742-4553-4292-a41a-ef26a65b9e8d"
+	}
+}
